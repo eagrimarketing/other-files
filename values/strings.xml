@@ -1,0 +1,173 @@
+<resources>
+    <string name="app_name">Agrim</string>
+    <string name="FirstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="Phone1">Main Phone Num </string>
+    <string name="Phone2">Alt Phone Num</string>
+    <string name="address1">House/Plot/Shop Number</string>
+    <string name="address2">Street/Locality Name</string>
+    <string name="address3">City/Village</string>
+    <string name="address4">District</string>
+    <string name="address5">State</string>
+    <string name="occupation">Occupation</string>
+    <string name="Adhar">Adhar ID</string>
+    <string name="submit">CLICK To SUBMIT</string>
+    <string name="CropID">Crop ID: </string>
+    <string name="Location">Farm Location: </string>
+    <string name="Farmername">Farmer: </string>
+    <string name="farmercontact">Farmer Contact Num: </string>
+    <string name="Farmerrating">Rating: </string>
+    <string name="Grade">Crop Grade</string>
+    <string name="Cropname">Crop Name: </string>
+    <string name="Volume">Quantity(KG): </string>
+    <string name="SalesRate">Rate(INR/KG)</string>
+    <string name="FarmID">Farm ID: </string>
+    <string name="Village">Village: </string>
+    <string name="Farmlocation">Select Farm Location</string>
+    <string name="SelectFarmID">Select Farm ID</string>
+    <string name="Deliverycity1">Delivery City 1</string>
+    <string name="Deliverycity2">Delivery City 2</string>
+    <string name="Shopname">Shop/Godown/Owner Name</string>
+    <string name="ShopId">Shop/Godown ID</string>
+    <string name="Fieldaddress6">Shop/Godown Plot Num</string>
+    <string name="Fieldaddress7">Street Name</string>
+    <string name="Fieldaddress8">City</string>
+    <string name="Fieldaddress9">District</string>
+    <string name="Fieldaddress10">State</string>
+    <string name="Add">Add</string>
+    <string name="Logout">Logout</string>
+    <string name="Buyershopid">Shop ID: </string>
+    <string name="Plotnum">Plot Num: </string>
+    <string name="Streetname">Street Name: </string>
+    <string name="City">City: </string>
+    <string name="District">District: </string>
+    <string name="State">State: </string>
+    <string name="Croprating">Crop Rating: </string>
+    <string name="Select_city">Select City to place order: </string>
+    <string name="Select_shop">Select Shop/Godown fro Delivery: </string>
+    <string name="Quantitymessage">Please Enter Order Quantity(KG)</string>
+    <string name="crop_details">Crop Details Below:</string>
+    <string name="text_farmer_detail">Farmer/Agent Details Below:</string>
+    <string name="Status">Order Status:</string>
+    <string name="Cost">Cost: </string>
+    <string name="Accept_Reject">Delivery Pending Acceptance or Rejection</string>
+    <string name="Orders_cancelled">Orders Cancelled or Rejected</string>
+    <string name="Orders_closed">Orders Closed</string>
+    <string name="Agent_ID">Agent_ID: </string>
+    <string name="Agentname">Agent Name: </string>
+    <string name="Agent_Contactnum">Agent Contact Num: </string>
+    <string name="Agent_Address">Address: </string>
+    <string name="Pickup_Village1">Pickup Village#1: </string>
+    <string name="Pickup_Village2">Pickup Village#2: </string>
+    <string name="Pickup_Village3">Pickup Village#3: </string>
+    <string name="Pickup_Village4">Pickup Village#4: </string>
+    <string name="Pickup_Village5">Pickup Village#5: </string>
+    <string name="Pickup_Village6">Pickup Village#6: </string>
+    <string name="Pickup_Village7">Pickup Village#7: </string>
+    <string name="Pickup_Village8">Pickup Village#8: </string>
+    <string name="Pickup_Village9">Pickup Village#9: </string>
+    <string name="Pickup_Village10">Pickup Village#10: </string>
+    <string name="accept_or_reject_delivery">Accept or Reject Delivery: </string>
+    <string name="Add_comment">Share Reason in case of Rejection: </string>
+    <string name="Add_Rating">Select Rating: </string>
+    <string name="Order_date">Order Date: </string>
+    <string name="Farmer_Accept_Reject">Order Pending Acceptance or Rejection</string>
+    <string name="Price">Order Price</string>
+    <string name="Buyername">Buyer Name:</string>
+    <string name="buyercontact">Buyer Contact Num:</string>
+    <string name="accept_or_reject_order">Accept or Reject Order: </string>
+    <string name="agent_selection">Select Agent for this Order Delivery </string>
+    <string name="Comments">Comments: </string>
+    <string name="Agent_Pending_Delivery">Orders Pending Delivery</string>
+    <string name="Farmaddress">Farm Address:</string>
+    <string name="Shoplocation">Shop Address:</string>
+    <string name="New_User_Signup">Create New User</string>
+    <string name="Existing_User">Login</string>
+    <string name="Enter_Phone">Enter Your Phone Number:</string>
+    <string name="Enter_Password">Enter Your password:</string>
+    <string name="Order_Count">Number of Orders:</string>
+    <string name="Payment_Status">Payment Status:</string>
+    <string name="Validate_Addr">Validate Address</string>
+    <string name="Delvcity1">City 1</string>
+    <string name="Delvcity2">City 2</string>
+    <string name="AVLQTY">Quantity Available:</string>
+
+    <string-array name="Occupation_list">
+        <item>Select: </item>
+        <item>Farmer</item>
+        <item>Buyer or Store Owner</item>
+        <item>Agent</item>
+    </string-array>
+
+    <string-array name="Buyer_select_order_delivery_status">
+        <item>Select: </item>
+        <item>Accept and Pay Now</item>
+        <item>Accept and Pay Later</item>
+        <item>Reject</item>
+    </string-array>
+
+    <string-array name="Buyer_Payment_Status">
+        <item>Select:</item>
+        <item>Buyer Accepted and Paid</item>
+        <item>Buyer Accepted and Pay Later</item>
+    </string-array>
+
+    <string-array name="Buyer_Ratings_Array">
+        <item>Select: </item>
+        <item>A+</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+    </string-array>
+
+    <string-array name="City_list">
+        <item>Select: </item>
+        <item>NewDelhi</item>
+        <item>Gurgaon</item>
+        <item>Noida</item>
+        <item>Greater Noida</item>
+    </string-array>
+
+    <string-array name="Farmer_accept_reject_order">
+        <item>Select: </item>
+        <item>Farmer Accepted</item>
+        <item>Farmer Rejected</item>
+    </string-array>
+
+    <string-array name="Agent_accept_reject_order">
+        <item>Select: </item>
+        <item>Agent Accepted</item>
+        <item>Agent Rejected</item>
+    </string-array>
+
+    <string-array name="Agent_deliver_cancel_order">
+        <item>Select: </item>
+        <item>Agent Delivered</item>
+        <item>Agent Cancelled</item>
+    </string-array>
+
+    <string-array name="Agent_payment_accept_reject">
+        <item>Select: </item>
+        <item>Agent Accepted Payment</item>
+        <item>Agent Rejected Payment</item>
+    </string-array>
+
+    <string-array name="Buyer_accept_reject_delivery">
+        <item>Select: </item>
+        <item>Buyer Accepted and Paid</item>
+        <item>Buyer Accepted and Pay Later</item>
+        <item>Buyer Rejected</item>
+    </string-array>
+    <string name="title_activity_farmer__homepage">Farmer Homepage</string>
+    <string name="title_activity_agent__homepage">Agent Homepage</string>
+    <string name="title_activity_buyer__homepage">Buyer Homepage</string>
+    <string name="title_activity_main">ViewOrderlist_Agent_Pending_Delivery_Mapview</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_vieworderlist__agent__mapview">Map</string>
+
+
+</resources>
